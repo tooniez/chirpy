@@ -107,7 +107,7 @@
     "jest-environment-jsdom": "29.4.1",
     "msw": "0.47.4",
     "msw-storybook-addon": "1.6.3",
-    "postcss": "8.4.21",
+    "postcss": "8.4.31",
     "postcss-loader": "7.0.2",
     "require-from-string": "2.0.2",
     "resize-observer-polyfill": "1.5.1",
