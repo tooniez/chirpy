@@ -67,7 +67,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.20.5",
-    "@babel/runtime": "7.20.7",
+    "@babel/runtime": "7.26.10",
     "@chirpy-dev/eslint-config": "workspace:*",
     "@chirpy-dev/tsconfigs": "workspace:*",
     "@chirpy-dev/types": "workspace:*",
