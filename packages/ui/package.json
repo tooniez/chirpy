@@ -66,7 +66,7 @@
     "zod": "3.20.6"
   },
   "devDependencies": {
-    "@babel/core": "7.20.5",
+    "@babel/core": "7.29.6",
     "@babel/runtime": "7.20.7",
     "@chirpy-dev/eslint-config": "workspace:*",
     "@chirpy-dev/tsconfigs": "workspace:*",
